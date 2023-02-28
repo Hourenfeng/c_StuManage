@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576752820 source:d:\c dazuoye\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
